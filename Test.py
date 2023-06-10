@@ -1,1 +1,2 @@
-print("Hello World")
+magicians = ['alice', 'david', 'carolina']
+print(magicians)
